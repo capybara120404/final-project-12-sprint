@@ -1,4 +1,4 @@
-name: final-project-12-sprint
+name: github-workflows-parcel-tracker
 on: push
 jobs:
   test:
